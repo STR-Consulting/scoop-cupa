@@ -1,9 +1,9 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/STR-Consulting/cupa/releases/download/v0.6.1/cupa_0.6.1_windows_amd64.zip",
-      "hash": "803e0d21df89eb64f88898de5ba7e5163d4a0e0783a715e66046ec77bb8038e8"
+      "url": "https://github.com/STR-Consulting/cupa/releases/download/v0.6.2/cupa_0.6.2_windows_amd64.zip",
+      "hash": "57af933feca4f3448141a587a064c59382b7222c9f16f0f4e390fbd1c051b451"
     }
   },
   "bin": "cupa.exe"
