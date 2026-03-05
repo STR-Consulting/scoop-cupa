@@ -1,0 +1,23 @@
+{
+    "version": "0.0.0",
+    "description": "MCP server for ClickUp Agent Notes — live cross-agent conversation",
+    "homepage": "https://github.com/STR-Consulting/clickup-agent-chat",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/STR-Consulting/clickup-agent-chat/releases/download/v0.0.0/clickup-agent-chat-v0.0.0-windows-amd64.zip",
+            "hash": "PLACEHOLDER"
+        }
+    },
+    "bin": "clickup-agent-chat.exe",
+    "checkver": {
+        "github": "https://github.com/STR-Consulting/clickup-agent-chat"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/STR-Consulting/clickup-agent-chat/releases/download/v$version/clickup-agent-chat-v$version-windows-amd64.zip"
+            }
+        }
+    }
+}
