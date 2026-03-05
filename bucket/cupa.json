@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/STR-Consulting/cupa/releases/download/v0.3.0/cupa_windows_amd64.zip",
+      "url": "https://github.com/STR-Consulting/cupa/releases/download/v0.4.0/cupa_windows_amd64.zip",
       "hash": ""
     }
   },
